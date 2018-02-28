@@ -11,3 +11,5 @@ Steps to follow to run the project:
 2.	Right click the project and go to Maven>Update Project (This will help to download the jar dependencies of the project)
 3.	Right click the Runner class “RunTest.java”
 4.	Click Run As>Junit Test
+
+https://examples.javacodegeeks.com/enterprise-java/maven/maven-project-structure-example/
